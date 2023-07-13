@@ -1,1 +1,1 @@
-https://github.com/megahet/ono-tebe-nado.git
+https://github.com/megahet/ono-tebe-nado
