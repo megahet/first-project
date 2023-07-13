@@ -184,15 +184,15 @@ a.link_active {
 }
 
 .card_type_film {
-  background: url(../images/card-lot-01.jpg);
+  background: url(./images/card-lot-01.jpg);
 }
 
 .card_type_book {
-  background: url(../images/card-lot-02.jpg);
+  background: url(./images/card-lot-02.jpg);
 }
 
 .card_type_picture {
-  background: url(../images/card-lot-03.jpg);
+  background: url(./images/card-lot-03.jpg);
 }
 
 .card {
