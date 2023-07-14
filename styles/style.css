@@ -34,7 +34,7 @@ html {
   text-underline-offset: 7px;
 }
 
-a.link_active {
+.link_active {
   text-decoration: none;
 }
 
@@ -138,7 +138,7 @@ a.link_active {
 
 .bet-button {
   width: 257px;
-  height: 52px;
+  min-height: 52px;
   margin-left: 78px;
   font-size: 22px;
   text-transform: uppercase;
