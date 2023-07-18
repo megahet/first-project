@@ -34,7 +34,7 @@ html {
   text-underline-offset: 7px;
 }
 
-.link_active {
+a.link_active {
   text-decoration: none;
 }
 
