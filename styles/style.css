@@ -34,7 +34,7 @@ html {
   text-underline-offset: 7px;
 }
 
-a.link_active {
+.link_active {
   text-decoration: none;
 }
 
@@ -311,6 +311,3 @@ a.link_active {
   list-style: none;
 }
 
-.link_active {
-  text-decoration: none;
-}
